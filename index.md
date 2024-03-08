@@ -2,8 +2,6 @@
 layout: home
 search_exclude: true
 ---
-A modified blog for CSA Based on Fastpages- Tirth Thakkar & Haseeb Beg   
-
-
+<!-- A union of farming and sport, along with machine learning concepts.  -->
 
 # Posts
