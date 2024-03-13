@@ -1,9 +1,9 @@
 title: Developer Logs
 description: "August 2023 to June 2024"
-owner_name: Tri3Project
-github_username: Tri3Project
-github_repo: "DeveloperLogs"
-baseurl: "/DeveloperLogs"
+owner_name: Del-Norte-Farmers-Iowa-Hawkeyes-Fanclub 
+github_username: Del-Norte-Farmers-Iowa-Hawkeyes-Fanclub 
+github_repo: "Del-Norte-Association-of-Sustainable-Farmers-Saftey-OSHA-and-Fantasy-Log-Book"
+baseurl: "/Del-Norte-Association-of-Sustainable-Farmers-Saftey-OSHA-and-Fantasy-Log-Book"
 remote_theme: jekyll/minima
 minima:
   social_links:
