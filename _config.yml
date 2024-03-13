@@ -1,4 +1,4 @@
-title: Developer Logs
+title: DeveloperLogs
 description: "August 2023 to June 2024"
 owner_name: Del-Norte-Farmers-Iowa-Hawkeyes-Fanclub 
 github_username: Del-Norte-Farmers-Iowa-Hawkeyes-Fanclub 
@@ -7,7 +7,7 @@ baseurl: "/Del-Norte-Association-of-Sustainable-Farmers-Saftey-OSHA-and-Fantasy-
 remote_theme: jekyll/minima
 minima:
   social_links:
-    - { platform: github, user_url: "https://github.com/Tri3Project/"}
+    - { platform: github, user_url: "https://github.com/Del-Norte-Farmers-Iowa-Hawkeyes-Fanclub/"}
 # remote_theme: pages-themes/dinky@v0.2.0
 # remote_theme: pages-themes/minimal@v0.2.0
 # remote_theme: pages-themes/hacker@v0.2.0
