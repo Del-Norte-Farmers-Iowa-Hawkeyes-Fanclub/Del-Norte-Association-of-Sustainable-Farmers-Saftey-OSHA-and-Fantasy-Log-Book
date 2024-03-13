@@ -1,6 +1,6 @@
 # Configuration, override port with usage: make PORT=4200
 PORT ?= 4100
-REPO_NAME ?= Nighthawk-Pages
+REPO_NAME ?= Del-Norte-Association-of-Sustainable-Farmers-Saftey-OSHA-and-Fantasy-Log-Book
 LOG_FILE = /tmp/jekyll$(PORT).log
 
 SHELL = /bin/bash
